@@ -1,11 +1,11 @@
 # 1. Testing accuracy of DHT22 sensor
+
 1_testDHT22_getFACTORS.py is a multipurpose version of JUNO's main.py that will be run multiple times. It logs DHT22 and sense-hat readings and calculates corresponding correction factors.
 
 On the first run we'll take DHT22 readings for subsequent testing of accuracy against Weather Station and K type termocouple data.
 Provided DHT22 proves to be accurate enough we'll use generated data to help visualize differences between sense-hat and DHT readings.
-On the second run the code is run simuntaneously with the CPU stressing script
-to point out CPU effect on sense-hat readings
-and calculate correction factors.
+
+Later on the second run the code is run simuntaneously with the CPU stressing script to point out CPU effect on sense-hat readings and calculate correction factors.
 
 Sense-hat and DHT22 are mounted on the same raspi 3B (26+2 pin extended header)
 DHT22 sensor is on BCM pins BCM20(readings), BCM21(power), BOARD39(ground),
