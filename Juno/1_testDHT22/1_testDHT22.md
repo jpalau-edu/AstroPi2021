@@ -15,6 +15,6 @@ RGB LED matrix code has been kept for feedback while running
 Ephem and TLE related stuff has been taken out
 Data structure of generated csv
 
-col[0] | col[1] | col[2] | col[3] | col[4] | col[5]	| col[6] | col[7] | col[8]
------- | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------
+col[0] | col[1] | col[2] | col[3] | col[4] | col[5]	| col[6] | col[7] | col[8] 
+------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ 
 date | time | counter | CPU_temp | senseTemp | senseHumid |	sensePres | DHT_Temp | DHT_Humid
