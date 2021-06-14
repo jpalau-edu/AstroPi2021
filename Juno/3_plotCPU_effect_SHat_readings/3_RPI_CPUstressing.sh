@@ -33,7 +33,7 @@ do
 	now=$(date +"%Y%m%d-%H%M%S")
 	echo $now
 	echo $now >> 2_RPI_CPUstressing-log_${day}.txt
-	sleep 600 # per defecte són segons)
+	sleep 600 # seconds by default)
 	for i in {1..4}
 	do
 		now=$(date +"%Y%m%d-%H%M%S")
