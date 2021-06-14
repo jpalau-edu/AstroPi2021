@@ -18,3 +18,7 @@ Data structure of generated csv
 col[0] | col[1] | col[2] | col[3] | col[4] | col[5]	| col[6] | col[7] | col[8] 
 ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ 
 date | time | counter | CPU_temp | senseTemp | senseHumid |	sensePres | DHT_Temp | DHT_Humid
+
+Selected data from DHT22 can be found in 
+210607-1_testDHT22_getFACTORS_data-210607.xls
+Selected data from Weather Station can be found in 
