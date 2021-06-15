@@ -1,7 +1,7 @@
 
-# TEAM JUNO
-# Institut d'Altafulla, Tarragona (Spain)
-# MISSION SPACE LAB 2021: What is the "felt" temperature on ISS?
+## TEAM JUNO
+## Institut d'Altafulla, Tarragona (Spain)
+## MISSION SPACE LAB 2021: What is the "felt" temperature on ISS?
 
 
 Our goal is to find out ISS heat index from on-board temperature, pressure and humidity by means of psychrometric calculations.
