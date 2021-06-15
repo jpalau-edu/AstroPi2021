@@ -10,11 +10,12 @@ At computer lab we'll run 1_testDHT22_getFACTORS.py which is a modified version 
 ### CPU stressing
 2_RPI_CPUstressing.sh is a bash script to increase CPU temperature in order to show effect on sense-hat temperature and humidity readings.
 It runs for almost 2 hours and uses a series of 4 'Sysbench tool' twice to increase CPU temp preceded by a stabilisation lapse of 10 min.
->Explaining Computers: Raspberry Pi 3 B+ Extreme Cooling
->https://www.youtube.com/watch?v=RxBaEiQHzLU
-
-It shows onscreen CPU temp before each Sysbench instance and records to log file.
 This code is run simuntaneously with program 1_testDHT22_getFACTORS.py to show CPU effect on sense-hat readings.
+The script shows CPU temp on screen before each Sysbench instance and records to log file.
+Further explanations about 'Sysbench tool' usage can be found at
+>Explaining Computers: Raspberry Pi 3 B+ Extreme Cooling
+>>https://www.youtube.com/watch?v=RxBaEiQHzLU
+
 		
 
 ### Plotting CPU data vs sense-hat data
