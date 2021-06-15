@@ -1,13 +1,6 @@
-############################################################################
 # TEAM JUPITER
-#
 # Institut d'Altafulla, Tarragona (Spain)
-#
-# MISSION SPACE LAB 2021: Can pictures from Astropi Picamera help assess rising
-#                         sea levels?
-#
-############################################################################
-
+# MISSION SPACE LAB 2021: Can pictures from Astropi Picamera help assess rising sea levels?
 
 Our team intends to find variations in the surface of land features such as river deltas,
 coastlines, water bodies and the like by comparing pictures taken by Astro Pi Izzy’s near-infrared camera
