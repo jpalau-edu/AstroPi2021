@@ -23,6 +23,4 @@ Further explanations about 'Sysbench tool' usage can be found at
 ### Plotting CPU data vs sense-hat data
 3_CPUvsSENSE-plotter.py 
 
-This code plots data from sense-hat and DHT22 sensor to help visualize differences. 
-Data is taken from resulting csv "calibration" file (step_1) which has the same structure
-as in Step_1.
+To help visualize effect of CPU temperature on sense-hat readings this code plots data from sense-hat and DHT22 sensor taken during CPU stressing.
