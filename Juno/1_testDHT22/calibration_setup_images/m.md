@@ -1,3 +1,4 @@
+# DHT22 calibration setup
 This code is a multipurpose version of JUNO's main.py that will be run multiple times.
 It logs DHT22 and sense-hat readings and calculates corresponding correction factors.
 On the first run we'll take DHT22 readings for subsequent testing of accuracy
