@@ -14,6 +14,7 @@ For that we intend to find a correction factor for sense-hat readings to correla
 At computer lab we'll run a modified version of main.py to get DHT22 values alongside those of the sense-hat for factor calculations. To observe the CPU temperature influence on the sense-hat readings a script that stresses CPU will be run simultaneously.
 
 
+
 ### Step_1. DHT22 accuracy testing
 	File_1: 1_testDHT22_getFACTORS.py
 	
