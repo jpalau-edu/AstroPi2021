@@ -1,7 +1,9 @@
 ## Plotting sense-hat vs DTH22 readings
 
 
-This code plots data from sense-hat and DHT22 sensor to help visualize differences
+This code in
+
+plots data from sense-hat and DHT22 sensor to help visualize differences
 Data is taken from a resulting csv calibration file
 >1_testDHT22_getFACTORS_data180.csv
 
