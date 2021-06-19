@@ -14,7 +14,7 @@ For that we intend to find a correction factor for sense-hat readings to correla
 At computer lab we'll run a modified version of main.py to get DHT22 values alongside those of the sense-hat for factor calculations. To observe the CPU temperature influence on the sense-hat readings a script that stresses CPU will be run simultaneously.
 
 
-Step_1. DHT22 accuracy testing
+###Step_1. DHT22 accuracy testing
 	File_1: 1_testDHT22_getFACTORS.py
 	
 This code is a multipurpose version of JUNO's main.py that will be run multiple times.
@@ -37,7 +37,7 @@ Data structure of generated csv
 	
 	
 	
-Step_2. CPU stressing
+### Step_2. CPU stressing
 	File_1: 1_testDHT22_getFACTORS.py
 	File_2: 2_RPI_CPUstressing.sh
 	
@@ -53,8 +53,7 @@ This code is run simuntaneously with program 1_testDHT22_getFACTORS.py
 to show CPU effect on sense-hat readings.
 		
 
-
-Step_3. Plotting CPU data vs sense-hat data
+### Step_3. Plotting CPU data vs sense-hat data
 	File_3: 3_CPUvsSENSE-plotter.py
 
 This code plots data from sense-hat and DHT22 sensor to help visualize differences
@@ -63,7 +62,7 @@ as in Step_1.
 	
 	
 
-Step_4. Get correction factors
+### Step_4. Get correction factors
 	File_1: 1_testDHT22_getFACTORS.py
 		
 As mentioned before, this code logs CPU temperature, sense-hat and DHT22 readings
