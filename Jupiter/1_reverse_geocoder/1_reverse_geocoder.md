@@ -14,7 +14,7 @@ date | time | counter | lat(deg) | long(deg) | sun_angle(deg) | dayORnight | lat
 and writes results into
 >jupiter_rev-geocoder.csv
 
-The rows we are interested in are those with counters 398 to 402.
+The rows we are interested in are those with counters 398 to 400.
 
 Reverse_geocoder library results are inaccurated because areas over sea are assigned to land regions
 so we'll also need an ISS tracker program for fine tuning ISS path which is why we then used 2_ISS_posttracker.py.
