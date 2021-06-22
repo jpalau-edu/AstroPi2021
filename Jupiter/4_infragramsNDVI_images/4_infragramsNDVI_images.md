@@ -9,6 +9,8 @@ NDVI (Normalized Difference Vegetation Index) takes advantage of the fact that h
 
 NDVI formula is 
 
+<img src="https://render.githubusercontent.com/render/math?math=\large NDVI=\frac{NIR - B}{NIR + B}">
+
 but Infragam allows for some fine-tunning so we 
 
 
