@@ -9,11 +9,12 @@ NDVI (Normalized Difference Vegetation Index) takes advantage of the fact that h
 
 On those selected images we used the INFRAGRAM tool, which performs NDVI calculation on every pixel and returns an image that can be either greyscale or false colored. NDVI formula is 
 
-<img src="https://render.githubusercontent.com/render/math?math=\large NDVI=\frac{NIR - B}{NIR + B}">
+<img src="https://render.githubusercontent.com/render/math?math=\large NDVI=\frac{NIR - B}{NIR %2BB}">
 
 but Infragam allows for some fine-tunning  
 >https://publiclab.org/wiki/infragram-sandbox
 
 so we made this change
-<img src="https://render.githubusercontent.com/render/math?math=\large NDVI=\frac{NIR - B}{NIR + B}">
+
+<img src="https://render.githubusercontent.com/render/math?math=\large NDVI=\frac{NIR - B}{0.5*(NIR %2BB)}">
 
