@@ -9,6 +9,8 @@ Inspiration comes from
 The code plots ISS path to Encapsulated PostScript (EPS) file
 >2_ISSposttracker.eps
 
+which can be converted to png format later on.
+
 The data structure in our csv file is
 col[0] | col[1] | col[2] | col[3] | col[4] | col[5]	| col[6] | col[7] | col[8] 
 ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ 
