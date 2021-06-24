@@ -1,3 +1,4 @@
+## Results
 
 From ground sampling distance method we got a pixel size of 169,17 x 164,37 = 27807m² per pixel. 
 
