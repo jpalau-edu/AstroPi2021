@@ -14,23 +14,27 @@ To estimated the area covered by a single pixel based on the [ground sampling di
 * IW (image width) = 2592 px
 * IH (image height) = 1944 px
 
-### To find out [ISS height on April 24th](https://www.heavens-above.com/IssHeight.aspx?lat=0&lng=0&loc=Unspecified&alt=0&tz=UCT)
+#### To find out [ISS height on April 24th](https://www.heavens-above.com/IssHeight.aspx?lat=0&lng=0&loc=Unspecified&alt=0&tz=UCT)
 
-Width April 1st to April 30th: 55 px
+ISS height from intersections on https://www.heavens-above.com graph
 
-30 days -> 55px
-24 days -> Xpx
+Width in pixels for the entire month is 55 px
 
-Width April 24th: 44px
+>30 days -> 55px
+>
+>24 days -> Xpx
+
+which results in width for April 24th being 44px
 
 
-Height full division: 67px
+Height in pixels for the full graph division: 67px
+Height of the full division in Km: 0,4
+Height in  Height for April 24th: 39px
 
-Proportional Hight: 39px
+>67px -> 0,4km
+>
+>39px -> Xkm
 
-67px -> 0,4km
-39px -> Xkm
+which results in height surplus for April 24th being 0,232835821 Km so
 
-Proportional Hight = 0,232835821 km
-
-ISS Height: 419.6 + 0,2328 km
+>ISS Height: 419,6 + 0,2328 km = 419,839 Km
