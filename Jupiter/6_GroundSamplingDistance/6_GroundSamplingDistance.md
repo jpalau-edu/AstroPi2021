@@ -1,6 +1,6 @@
 ## Ground sampling distance
 
-To estimated the area covered by a single pixel based on the ground sampling distance method we need
+To estimated the area covered by a single pixel based on the [ground sampling distance](http://gsp.humboldt.edu/OLM/Courses/GSP_216_Online/lesson2-2/scale.html) we need
 
 * SW (sensor width) =3,76mm
 * FR (Focal length) = 3,6mm
@@ -14,11 +14,12 @@ To estimated the area covered by a single pixel based on the ground sampling dis
 * IW (image width) = 2592 px
 * IH (image height) = 1944 px
 
-Width April 1 to 30: 55 px
+### To find out [ISS height on April 24th](https://www.heavens-above.com/IssHeight.aspx?lat=0&lng=0&loc=Unspecified&alt=0&tz=UCT)
 
-55px -> 30 days
+Width April 1st to April 30th: 55 px
 
-Xpx  -> 24 days
+30 days -> 55px
+24 days -> Xpx
 
 Width April 24th: 44px
 
@@ -28,10 +29,8 @@ Height full division: 67px
 Proportional Hight: 39px
 
 67px -> 0,4km
-
 39px -> Xkm
 
 Proportional Hight = 0,232835821 km
-
 
 ISS Height: 419.6 + 0,2328 km
