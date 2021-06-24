@@ -6,5 +6,5 @@ We estimated the water surface area in pixels with image processing software Ima
 >
 >Magic wand
 
-Then we translated pixels into Km² using the results of ground [sampling distance method]
- (https://github.com/jpalau-edu/AstroPi2021/tree/main/Jupiter/6_GroundSamplingDistance).
+Then we translated pixels into Km² using the results of ground 
+[sampling distance method](https://github.com/jpalau-edu/AstroPi2021/tree/main/Jupiter/6_GroundSamplingDistance).
