@@ -2,7 +2,7 @@
 ## Institut d'Altafulla, Tarragona (Spain)
 ## MISSION SPACE LAB 2021: Can pictures from Astropi Picamera help assess rising sea levels?
 
-Climate change and human activity has led to the shrinking of lakes around the world. This phenomenon is specially alarming for closed hydrological system lakes in drier regions.
+Climate change and human activity has led to the shrinking of lakes around the world. This phenomenon is specially alarming for closed hydrological system lakes in drier regions of which Lake Aral is a quintessential example.
 
 Decreasing water levels lead to quicker warming of water which in turn increases evaporation that causes rising salinity levels, increased instances of algal bloom and decreasing of fish stocks, just to name a few of the consequences.
 
